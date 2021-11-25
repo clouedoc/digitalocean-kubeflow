@@ -5,7 +5,7 @@ This repository will hold my entry for the DigitalOcean Kubernetes challenge !
 ## Kubeflow
 
 Kubeflow is *"The Machine Learning Toolkit for Kubernetes"*.
-More informations are available [on their website](https://www.kubeflow.org/)
+More informations are available [on their website](https://www.kubeflow.org/).
 
 ## DigitalOcean
 
