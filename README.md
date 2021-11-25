@@ -14,3 +14,26 @@ DigitalOcean is an hosting provider who hosts the HacktoberFest and a Kubernetes
 ## Kubernetes
 
 Kubernetes is a container orchestration platform.
+
+## Steps
+
+### Installing tools
+
+brew install kubectl # install k8s CLI
+brew install doctl # install DigitalOcean CLI
+doctl auth init # login to DigitalOcean
+
+### Creating a cluster
+
+That's the easy part
+
+TODO: add screenshots
+
+### 
+
+
+## Sources
+
+- https://eskala.io/tutorial/kubeflow-deploy-on-kubernetes/
+- https://www.linode.com/docs/guides/how-to-deploy-kubeflow-on-linode-kubernetes-engine/
+
