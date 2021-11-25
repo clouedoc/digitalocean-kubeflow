@@ -23,13 +23,17 @@ brew install kubectl # install k8s CLI
 brew install doctl # install DigitalOcean CLI
 doctl auth init # login to DigitalOcean
 
+### Kfctl
+
+Download and install the binary from [the releases](https://github.com/kubeflow/kfctl/releases/)
+
 ### Creating a cluster
 
 That's the easy part
 
 TODO: add screenshots
 
-### 
+### Ins
 
 
 ## Sources
