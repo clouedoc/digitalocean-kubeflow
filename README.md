@@ -1,6 +1,6 @@
 # digitalocean-kubeflow
 
-This repository will hold my entry for the DigitalOcean Kubernetes challenge !
+This repository will hold my entry for DigitalOcean's 2021 Kubernetes Challenge!
 
 ## Kubeflow
 
