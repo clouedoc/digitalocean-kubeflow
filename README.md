@@ -33,7 +33,7 @@ That's the easy part
 
 TODO: add screenshots
 
-### Ins
+### Install Kubeflow
 
 
 ## Sources
